@@ -1,0 +1,17 @@
+#about 
+{
+	background-color:#2C3145;
+}
+
+#contact
+{
+	background-color:#2C3145;
+}
+#navbar {
+	background-color: #222222;
+	border: 1px solid #222222;
+}
+
+.owl-item .item img{
+	max-height: 600px;
+}
