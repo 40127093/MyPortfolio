@@ -15,3 +15,17 @@
 .owl-item .item img{
 	max-height: 600px;
 }
+
+.reference img{
+	max-height: 300px;
+	min-height: 170px;
+}
+.reference-item .reference {
+	background: transparent;
+}
+#rapunzel {
+	max-height:600px;
+}
+#about {
+	color:white;
+}
